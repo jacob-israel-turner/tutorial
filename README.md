@@ -44,4 +44,14 @@ or errors...
 ![errors]
 (http://i59.tinypic.com/11ihnxx.png)
 
-right in your console.
+right in your console. Woo!
+
+## Other resources
+
+ * [Mozilla Developer Network]( https://developer.mozilla.org/en-US/ ):  One of the most used and authoritative sources on all things web.  Here you'll find the most exhaustive and up-to-date JavaScript documentation available.  The examples each article are especially useful.
+
+ * [Stack Overflow]( http://stackoverflow.com/ ):  Probably the most accurate and active community for asking questions and finding answers for all things software.  They have tons of JavaScript answers.  If you ever have a question about JavaScript, you can bet it's already been answered on StackOverflow.  Just search google with your question and 'Stack Overflow'.
+
+ * [Codecademy]( http://www.codecademy.com/ ): One of the best sites for learning HTML/CSS/JavaScript.  They have several (free) courses that will help you to prepare for DevMountain.
+
+ * If you have the time, I would also recommend getting the book ['A Smarter Way to Learn JavaScript']( http://www.asmarterwaytolearn.com/ ) by Mark Myers.  This is the book we get for students once they've been accepted, and we require them to go through select chapters (about 1/2 of the book, between 30 and 40 hours of work) before the cohort begins.  If you do this book, you'll be adequately prepared to apply and take the course.
